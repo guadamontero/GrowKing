@@ -55,8 +55,8 @@
   padding: 0.7rem 2rem;
   margin-bottom: 2rem;
   background-color: transparent;
-  color: $light-green;
-  border: 1px solid $light-green;
+  color: $soft-green;
+  border: 1px solid $soft-green;
   border-radius: 25px;
   cursor: pointer;
 }
@@ -74,14 +74,14 @@
 
 .categorias__container .categorias__btn p {
   width: 170px;
-  background-color: $dark-brown;
+  background-color: $dark-green;
   color: $white;
   font-family: "Poppins", sans-serif;
   font-size: 12px;
   font-weight: 600;
   padding: 0.5rem;
   cursor: pointer;
-  border: 1px solid $light-brown;
+  border: 1px solid $dark-green;
   border-radius: 25px;
   text-align: center;
   width: 100%;
