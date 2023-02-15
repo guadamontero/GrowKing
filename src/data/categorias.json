@@ -1,0 +1,18 @@
+[
+    {
+      "id": 1,
+      "categoria": "Plantación",
+      "img": "/images/promo_1.jpg" 
+    },
+    {
+      "id": 2,
+      "categoria": "Parafernalia",
+      "img": "/images/promo_2.jpg" 
+    },
+    {
+      "id": 3, 
+      "categoria": "Semillas",
+      "img": "/images/promo_3.jpg" 
+    }
+  ]
+  

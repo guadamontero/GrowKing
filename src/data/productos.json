@@ -1,0 +1,260 @@
+[
+  {
+    "id": 1,
+    "nombre": "Bioenergy Trichodermas",
+    "categoria": "Cultivo",
+    "img": "/images/cultivo/bioenergy-trichodermas.png"
+  },
+  {
+    "id": 2,
+    "nombre": "Carpa Garden Highpro",
+    "categoria": "Cultivo",
+    "img": "/images/cultivo/CARPA-GARDEN-HIGHPRO-probox-basic.png"
+  },
+  {
+    "id": 3,
+    "nombre": "Cascarilla de arroz orgánica",
+    "categoria": "Cultivo",
+    "img": "/images/cultivo/cascarilla-de-arroz-organica.png"
+  },
+  {
+    "id": 4,
+    "nombre": "Cooler",
+    "categoria": "Cultivo",
+    "img": "/images/cultivo/cooler.png"
+  },
+  {
+    "id": 5,
+    "nombre": "Estante para carpa",
+    "categoria": "Cultivo",
+    "img": "/images/cultivo/estante para carpa.png"
+  },
+  {
+    "id": 6,
+    "nombre": "Harina de hueso",
+    "categoria": "Cultivo",
+    "img": "/images/cultivo/harina-de-hueso.png"
+  },
+  {
+    "id": 7,
+    "nombre": "Humus Lombriz Greenfire",
+    "categoria": "Cultivo",
+    "img": "/images/cultivo/humus-lombriz-greenfire.png"
+  },
+  {
+    "id": 8,
+    "nombre": "Lampara Sodio",
+    "categoria": "Cultivo",
+    "img": "/images/cultivo/lampara-sodio.png"
+  },
+  {
+    "id": 9,
+    "nombre": "Maceta Soplada",
+    "categoria": "Cultivo",
+    "img": "/images/cultivo/maceta-soplada.png"
+  },
+  {
+    "id": 10,
+    "nombre": "Namaste Flora Booster",
+    "categoria": "Cultivo",
+    "img": "/images/cultivo/namaste-flora-booster.png"
+  },
+  {
+    "id": 11,
+    "nombre": "Nitrofull NPK Granulado",
+    "categoria": "Cultivo",
+    "img": "/images/cultivo/nitrofull-npk-granulado.png"
+  },
+  {
+    "id": 12,
+    "nombre": "Panel Full Espectro 400w",
+    "categoria": "Cultivo",
+    "img": "/images/cultivo/panel-full-espectro-400w.png"
+  },
+  {
+    "id": 13,
+    "nombre": "Perilta Agrícola",
+    "categoria": "Cultivo",
+    "img": "/images/cultivo/perlita-agricola.png"
+  },
+  {
+    "id": 14,
+    "nombre": "Pometina Bertinats",
+    "categoria": "Cultivo",
+    "img": "/images/cultivo/pometina-bertinat.png"
+  },
+  {
+    "id": 15,
+    "nombre": "Resaca de Rio",
+    "categoria": "Cultivo",
+    "img": "/images/cultivo/resaca-de-rio.png"
+  },
+  {
+    "id": 16,
+    "nombre": "Sustrato Cultivate Premium",
+    "categoria": "Cultivo",
+    "img": "/images/cultivo/sustrato-cultivate-premium.png"
+  },
+  {
+    "id": 17,
+    "nombre": "Termohigometro Digital",
+    "categoria": "Cultivo",
+    "img": "/images/cultivo/TERMOHIGOMETRO-DIGITAL-ESTACION-SIN-SONDA.png"
+  },
+  {
+    "id": 18,
+    "nombre": "Top Crop Cyclone",
+    "categoria": "Cultivo",
+    "img": "/images/cultivo/top-crop-cyclone.png"
+  },
+  {
+    "id": 19,
+    "nombre": "Turba Jiffy",
+    "categoria": "Cultivo",
+    "img": "/images/cultivo/turba-jiffy.png"
+  },
+  {
+    "id": 20,
+    "nombre": "Vamp Liquido Infernal",
+    "categoria": "Cultivo",
+    "img": "/images/cultivo/vamp-liquido-infernal.png"
+  },
+  {
+    "id": 21,
+    "nombre": "Vermiculita Fertil",
+    "categoria": "Cultivo",
+    "img": "/images/cultivo/Vermiculita-vermi-fertil.png"
+  },
+  {
+    "id": 22,
+    "nombre": "Adapter 120 micrones fanofhash",
+    "categoria": "Parafernalia",
+    "img": "/images/parafernalia/adapter-120-micrones-fanofhash.png"
+  },
+  {
+    "id": 23,
+    "nombre": "Blunt Doble Wrap",
+    "categoria": "Parafernalia",
+    "img": "/images/parafernalia/blunt-doble-wrap.png"
+  },
+  {
+    "id": 24,
+    "nombre": "Blunt Rey Filtros Torquelados",
+    "categoria": "Parafernalia",
+    "img": "/images/parafernalia/blunt-rey-filtros-torquelados.png"
+  },
+  {
+    "id": 25,
+    "nombre": "Bolsa Tigth Vac Gold Chica",
+    "categoria": "Parafernalia",
+    "img": "/images/parafernalia/BOLSA-ZIPLOC-TIGTH-VAC-GOLD-CHICA.png"
+  },
+  {
+    "id": 26,
+    "nombre": "Bong Glass Precolador Verde",
+    "categoria": "Parafernalia",
+    "img": "/images/parafernalia/BONG-GLASS-PRECOLADOR-VERDE-CGP16020.png"
+  },
+  {
+    "id": 27,
+    "nombre": "Bong Puffco Brilla Oscuridad Pyrex",
+    "categoria": "Parafernalia",
+    "img": "/images/parafernalia/BONG-PUFFCO-BRILLA-OSCURIDAD-PYREX.png"
+  },
+  {
+    "id": 28,
+    "nombre": "Bong Pyb Pyrex Mini DK",
+    "categoria": "Parafernalia",
+    "img": "/images/parafernalia/BONG-PYB-PYREX-MINI-DK.png"
+  },
+  {
+    "id": 29,
+    "nombre": "Bong Water Recycle 20cm",
+    "categoria": "Parafernalia",
+    "img": "/images/parafernalia/BONG-WATER-RECYCLE-20cm-GHP16008.png"
+  },
+  {
+    "id": 30,
+    "nombre": "Come Tuka",
+    "categoria": "Parafernalia",
+    "img": "/images/parafernalia/come-tuka.png"
+  },
+  {
+    "id": 31,
+    "nombre": "Encendedor Liso Zippo",
+    "categoria": "Parafernalia",
+    "img": "/images/parafernalia/encendedor-liso-zippo.png"
+  },
+  {
+    "id": 32,
+    "nombre": "Frasco Smokus Focus con lupa y luz",
+    "categoria": "Parafernalia",
+    "img": "/images/parafernalia/FRASCO-SMOKUS-FOCUS-CON-LUPA-Y-LUZ.png"
+  },
+  {
+    "id": 33,
+    "nombre": "Muñeco Lion Circus",
+    "categoria": "Parafernalia",
+    "img": "/images/parafernalia/muneco-lion-circus.png"
+  },
+  {
+    "id": 34,
+    "nombre": "Muñeco Lion Duki Bandeja Filtros y más",
+    "categoria": "Parafernalia",
+    "img": "/images/parafernalia/muneco-lion-duki-bandeja-filtros-revista-sedas.png"
+  },
+  {
+    "id": 35,
+    "nombre": "Pay pay Sedas Alfalfa",
+    "categoria": "Parafernalia",
+    "img": "/images/parafernalia/pay-pay-sedas-alfalfa.png"
+  },
+  {
+    "id": 36,
+    "nombre": "Pipa Metal Cabeza Desmontable Calavera",
+    "categoria": "Parafernalia",
+    "img": "/images/parafernalia/pipa-metal-cabeza-desmontable-calavera.png"
+  },
+  {
+    "id": 37,
+    "nombre": "Pipa Pyrex Tirabuzon Espiral",
+    "categoria": "Parafernalia",
+    "img": "/images/parafernalia/PIPA-PYREX-TIRABUZON-ESPIRAL.png"
+  },
+  {
+    "id": 38,
+    "nombre": "Pipa Recta Bola 8",
+    "categoria": "Parafernalia",
+    "img": "/images/parafernalia/pipa-recta-bola8.png"
+  },
+  {
+    "id": 39,
+    "nombre": "Pipa Agua Narguile 29cm",
+    "categoria": "Parafernalia",
+    "img": "/images/parafernalia/PIPAAGUANARGUILE29cm2MANGUERAS.png"
+  },
+  {
+    "id": 40,
+    "nombre": "Turbina Zepelin Grande",
+    "categoria": "Parafernalia",
+    "img": "/images/parafernalia/trubina-zepelin-grande.png"
+  },
+  {
+    "id": 41,
+    "nombre": "Turbina Amazed Color",
+    "categoria": "Parafernalia",
+    "img": "/images/parafernalia/turbina-amazed-color.png"
+  },
+  {
+    "id": 42,
+    "nombre": "Turbina Amazed Color",
+    "categoria": "Semillas y Plantines",
+    "img": "/images/semillas-plantines/plantin.png"
+  },
+  {
+    "id": 43,
+    "nombre": "Turbina Amazed Color",
+    "categoria": "Semillas y Plantines",
+    "img": "/images/semillas-plantines/semillas.png"
+  }
+]
