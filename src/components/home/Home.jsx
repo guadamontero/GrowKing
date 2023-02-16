@@ -15,9 +15,9 @@ const Home = () => {
     <section className='home__container'>
       <Heroe />
       <Cards />
-      <ReadMore />
-      <Services />
+      {/* <ReadMore /> */}
       <TheStore />
+      <Services />
     </section>
   )
 }

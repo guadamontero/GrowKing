@@ -73,14 +73,14 @@
 }
 
 .menuDrawer__activeLink {
-  color: $light-brown;
+  color: $soft-green;
   font-weight: 700;
   position: relative;
 }
 
 .menuDrawer__activeLink :after {
   content: "";
-  background-color: $dark-grey;
+  background-color: $light-green;
   height: 1.7px;
   width: 30%;
   position: absolute;
